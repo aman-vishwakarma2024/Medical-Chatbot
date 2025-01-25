@@ -1,0 +1,11 @@
+sentence-transformers==2.2.2 # since I am using hugging face to get the model and embeddings
+langchain
+flask
+pypdf #using pdf as data source
+python-dotenv #since in .env we are storing the api key
+pinecone[grpc] #for pinecone
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental
+-e .
