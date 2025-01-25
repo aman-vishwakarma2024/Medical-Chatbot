@@ -1,4 +1,4 @@
-sentence-transformers==2.2.2 # since I am using hugging face to get the model and embeddings
+sentence-transformers # since I am using hugging face to get the model and embeddings # =2.2.2
 langchain
 flask
 pypdf #using pdf as data source
