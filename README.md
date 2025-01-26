@@ -1,4 +1,11 @@
 # Medical-Chatbot
+Techstack used:
+- Python
+- Langchain
+- OpenAI
+- Pinecone
+- Flask
+
 Steps
  1. Create virtual environments
  2. write and install requirements.txt
